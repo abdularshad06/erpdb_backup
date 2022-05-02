@@ -1,4 +1,4 @@
-# ERP_Server Side:-
+# pgsql_Server Side:-
 
 - mkdir /etc/scripts
 - chmod a+x /etc/scripts/postgres_bkp_commands.sh
