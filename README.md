@@ -1,5 +1,3 @@
-# erpdb_backup
-
 # ERP_Server Side:-
 
 - mkdir /etc/scripts
