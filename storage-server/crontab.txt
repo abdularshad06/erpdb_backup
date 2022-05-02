@@ -1,0 +1,7 @@
+cat /etc/crontab
+
+# *  *  *  *  * user-name  command to be executed
+
+
+0 11 * * * postgres /usr/bin/bash /etc/scripts/postgres_bkp_commands.sh
+0 18 * * * postgres /usr/bin/bash /etc/scripts/postgres_bkp_commands.sh
